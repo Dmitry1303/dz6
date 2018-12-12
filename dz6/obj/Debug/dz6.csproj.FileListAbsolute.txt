@@ -1,0 +1,7 @@
+C:\Users\Дмитрий\Source\Repos\dz6\dz6\bin\Debug\dz6.exe.config
+C:\Users\Дмитрий\Source\Repos\dz6\dz6\bin\Debug\dz6.exe
+C:\Users\Дмитрий\Source\Repos\dz6\dz6\bin\Debug\dz6.pdb
+C:\Users\Дмитрий\Source\Repos\dz6\dz6\obj\Debug\dz6.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Source\Repos\dz6\dz6\obj\Debug\dz6.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Source\Repos\dz6\dz6\obj\Debug\dz6.exe
+C:\Users\Дмитрий\Source\Repos\dz6\dz6\obj\Debug\dz6.pdb
